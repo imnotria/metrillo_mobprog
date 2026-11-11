@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # metrillo_mobprog
 
 Laboratory Discussion
@@ -16,3 +17,6 @@ Configuring a Flutter development environment taught me that mobile app developm
 
 5. What practices will you follow to make future Flutter development easier?
 I will adopt several best practices to streamline future development work. I will consistently install software development kits and dependencies in clean, root-level, space-free directories right from the start to prevent path-related bugs. I will also make running flutter doctor a standard routine after any system or framework updates to catch missing components or configuration drifts early, ensuring a smooth and frustration-free workflow.
+=======
+# metrillo_mobprog
+>>>>>>> d3a6c06b38846a2f8ed8194c7a937dd808b5cfe9
